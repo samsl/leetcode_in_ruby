@@ -2,7 +2,7 @@
 * text=auto
 
 # Custom for Visual Studio
-*.cs     diff=csharp
+*.rb     diff=ruby
 
 # Standard to msysgit
 *.doc	 diff=astextplain
